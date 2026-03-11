@@ -16,7 +16,7 @@
 
 body {
   margin: 0;
-  font-family: "Segoe UI", Tahoma, sans-serif;
+  font-family: "Google Sans", sans-serif;
   background: radial-gradient(circle at top right, #1d2230 0%, var(--bg) 55%);
   color: var(--text);
   line-height: 1.7;
