@@ -1,2 +1,2 @@
 # AniBlog
-A Anime based Blog website
+An Anime based Blog website
