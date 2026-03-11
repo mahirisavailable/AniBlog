@@ -1,6 +1,6 @@
 body{
   margin:0;
-  font-family: 'Segoe UI', Tahoma, sans-serif;
+  font-family: "Google Sans", sans-serif;
   background:#101010;
   color:#e8e8e8;
   line-height:1.7;
@@ -49,7 +49,7 @@ header p{
 
 .container{
   width:90%;
-  max-width:900px;
+  max-width: 1000px;
   margin:auto;
 }
 
