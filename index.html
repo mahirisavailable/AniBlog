@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AniBlog</title>
+  <link rel="icon" type="image/png" href="images/Favicon.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-content container">
+    <p class="eyebrow">Anime</p>
+    <h1>AniBlog</h1>
+    <p class="hero-copy">Explore your favourite anime characters and build attachment</p>
+    <div class="hero-meta">
+      <span class="meta-chip"><strong id="blogCount">0</strong> posts</span>
+      <span class="meta-chip">Updated in 2026</span>
+    </div>
+    <div>
+      <span class="tag">Smart presentation</span>
+      <span class="tag">Elegant visual</span>
+      <span class="tag">Simple language</span>
+    </div>
+  </div>
+</header>
+
+<section class="controls container">
+  <input id="searchInput" type="search" placeholder="Search titles or tags..." aria-label="Search posts">
+  <select id="tagFilter" aria-label="Filter by tag">
+    <option value="all">All tags</option>
+  </select>
+</section>
+
+<main id="container" class="container posts-grid" aria-live="polite"></main>
+<p id="emptyState" class="empty-state container" hidden>No matching post found. Try another keyword or tag.</p>
+
+<footer>
+  <p>&copy; 2026 - Mahir Ahmed - Built with curiosity</p>
+</footer>
+
+<script src="scriptblog.js"></script>
+</body>
+</html>
