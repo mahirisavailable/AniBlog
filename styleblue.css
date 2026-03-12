@@ -84,14 +84,13 @@ header p{
 .info-box{
   background:#18181f;
   border-left:4px solid #5865f2;
-  padding:15px 20px;
+  padding: 15px;
   border-radius:10px;
 }
 
 .profile-table{
   width:100%;
   border-collapse:collapse;
-  margin-top: 5px;
 }
 
 .profile-table td{
