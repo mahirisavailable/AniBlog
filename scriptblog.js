@@ -10,6 +10,12 @@ const animeBlogs = [
     description: "A deep dive into Doma, the Smiling Demon from Demon Slayer",
     page: "DomaBlog.html",
     tags: ["Demon Slayer", "Demon", "Character Study"]
+  },
+  {
+    title: "Toji Fushiguro: From Outcast to Legend",
+    description: "A deep dive into Toji Fushiguro, the heavenly restricted warrior from Jujutsu Kaisen",
+    page: "TojiBlog.html",
+    tags: ["Jujutsu Kaisen", "Heavenly Restriction", "Character Study"]
   }
 ];
 
