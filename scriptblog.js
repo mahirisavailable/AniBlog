@@ -1,21 +1,17 @@
-const blogs = [
+const animeBlogs = [
   {
     title: "Reze: Love, Lies and Explosions",
     description: "A deep dive into Reze, the Bomb Devil from Chainsaw Man",
     page: "RezeBlog.html",
-    tags: ["Anime", "Chainsaw Man", "Devil", "Character Study"]
+    tags: ["Chainsaw Man", "Devil", "Character Study"]
   },
   {
     title: "Doma: Brutality Disguised in Smile",
     description: "A deep dive into Doma, the Smiling Demon from Demon Slayer",
     page: "DomaBlog.html",
-    tags: ["Anime", "Demon Slayer", "Demon", "Character Study"]
+    tags: ["Demon Slayer", "Demon", "Character Study"]
   }
 ];
-
-const animeBlogs = blogs.filter((blog) =>
-  blog.tags.some((tag) => tag.toLowerCase() === "anime")
-);
 
 const container = document.getElementById("container");
 const searchInput = document.getElementById("searchInput");
