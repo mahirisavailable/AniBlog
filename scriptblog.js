@@ -15,7 +15,13 @@ const animeBlogs = [
     title: "Toji Fushiguro: From Outcast to Legend",
     description: "A deep dive into Toji Fushiguro, the heavenly restricted warrior from Jujutsu Kaisen",
     page: "TojiBlog.html",
-    tags: ["Jujutsu Kaisen", "Heavenly Restriction", "Character Study"]
+    tags: ["Jujutsu Kaisen", "Physical Srength", "Character Study"]
+  },
+  {
+    title: "Three Legends, One Bloodline: The Ackerman Trio",
+    description: "A deep dive into the Ackerman bloodline: Levy Ackerman, Mikasa Ackerman and Kenny Ackerman",
+    page: "AckermanBlog.html",
+    tags: ["Attack on Titan", "Physical Srength", "Character Study"]
   }
 ];
 
