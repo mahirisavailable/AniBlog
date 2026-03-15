@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+
+body{
+  margin:0;
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  background:#101010;
+  color:#e8e8e8;
+  line-height:1.7;
+}
+
+.back-home{
+  display:inline-block;
+  margin-top:20px;
+  padding:10px 25px;
+  border-radius: 20px;
+  color:#e8e8e8;
+  background:#33cc33;
+  text-decoration:none;
+  font-size:14px;
+}
+
+.back-home:hover{
+  background:#33cc3350;
+}
+
+header{
+  background: linear-gradient(120deg, #181b1820,#33cc3320);
+  padding: 5% 5%;
+  text-align:left;
+}
+
+header h1{
+  font-size:40px;
+  margin-bottom:10px;
+}
+
+header p{
+  color:#bbbbbb;
+  font-size:18px;
+}
+
+.tag{
+  display:inline-block;
+  background: #33cc3320;
+  border: 1px solid #33cc33;
+  padding:5px 10px;
+  border-radius:20px;
+  font-size:14px;
+  margin:5px;
+}
+
+.container{
+  width:90%;
+  max-width:1000px;
+  margin:auto;
+}
+
+.hero-img{
+  width:100%;
+  border-radius:14px;
+  margin-top:30px;
+  box-shadow:0 10px 30px rgba(0,0,0,0.6);
+}
+
+.profile-img{
+  width: 100%;
+  border-radius:14px;
+  margin-top:20px;
+  box-shadow:0 10px 30px rgba(0,0,0,0.6);
+}
+
+.section{
+  margin-top:50px;
+}
+
+.section h2{
+  color:#33cc33;
+  margin-bottom:15px;
+  border-left:4px solid #33cc33;
+  padding-left:10px;
+}
+
+.info-box{
+  background:#181b18;
+  border-left:4px solid #33cc33;
+  padding:15px;
+  margin:auto;
+  border-radius:10px;
+}
+
+.profile-table{
+  width:100%;
+  border-collapse:collapse;
+}
+
+.profile-table td{
+  padding:7px;
+  border-bottom:1px solid #333;
+}
+
+.profile-table th{
+  padding:5px;
+  margin: 0;
+  font-style: italic;
+  font-weight: 100;
+  border-bottom:1px solid #333;
+  color:#888;
+}
+
+blockquote{
+  border-left:4px solid #33cc33;
+  margin:20px 0;
+  padding:10px 20px;
+  font-style:italic;
+  background:#181b18;
+  border-radius:10px;
+}
+
+.list{
+  border-left:4px solid #33cc33;
+  margin:20px 0;
+  padding:10px 20px;
+  background:#181b18;
+  border-radius:10px;
+}
+
+.list li{
+  margin: 5px 20px;
+}
+
+footer{
+  margin-top:60px;
+  padding:30px;
+  text-align:center;
+  background:#181b18;
+  color:#888;
+}

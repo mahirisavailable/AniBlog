@@ -30,7 +30,7 @@ header{
 }
 
 header h1{
-  font-size: 40px;
+  font-size:40px;
   margin-bottom:10px;
 }
 
@@ -63,10 +63,9 @@ header p{
 }
 
 .profile-img{
-  max-width: 300px;
   width: 100%;
   border-radius:14px;
-  margin-top:30px;
+  margin-top:20px;
   box-shadow:0 10px 30px rgba(0,0,0,0.6);
 }
 
@@ -84,7 +83,8 @@ header p{
 .info-box{
   background:#18181f;
   border-left:4px solid #5865f2;
-  padding: 15px;
+  padding:15px;
+  margin:auto;
   border-radius:10px;
 }
 
