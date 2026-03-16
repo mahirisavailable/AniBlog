@@ -7,19 +7,19 @@ const animeBlogs = [
   },
   {
     title: "Doma: Brutality Disguised in Smile",
-    description: "A deep dive into Doma, the Smiling Demon from Demon Slayer",
+    description: "Exploring the chilling mind and overwhelming power of Upper Rank Two.",
     page: "DomaBlog.html",
     tags: ["Demon Slayer", "Demon", "Character Study"]
   },
   {
     title: "Toji Fushiguro: From Outcast to Legend",
-    description: "A deep dive into Toji Fushiguro, the heavenly restricted warrior from Jujutsu Kaisen",
+    description: "The story of the man who defied the jujutsu world without cursed energy.",
     page: "TojiBlog.html",
     tags: ["Jujutsu Kaisen", "Physical Srength", "Character Study"]
   },
   {
     title: "Three Legends, One Bloodline: The Ackerman Trio",
-    description: "A deep dive into the Ackerman bloodline: Levy Ackerman, Mikasa Ackerman and Kenny Ackerman",
+    description: "Uncovering the legacy of Levi, Mikasa, and Kenny—the warriors of the Ackerman clan.",
     page: "AckermanBlog.html",
     tags: ["Attack on Titan", "Physical Srength", "Character Study"]
   }
