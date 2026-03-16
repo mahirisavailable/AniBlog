@@ -1,7 +1,7 @@
 const animeBlogs = [
   {
     title: "Reze: Love, Lies and Explosions",
-    description: "A deep dive into Reze, the Bomb Devil from Chainsaw Man",
+    description: "Exploring the mystery, tragedy, and deadly charm of the Bomb Devil.",
     page: "RezeBlog.html",
     tags: ["Chainsaw Man", "Devil", "Character Study"]
   },
