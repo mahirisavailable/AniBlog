@@ -6,6 +6,12 @@ const animeBlogs = [
     tags: ["Chainsaw Man", "Devil", "Character Study"]
   },
   {
+    title: "Three Legends, One Bloodline: The Ackerman Trio",
+    description: "Uncovering the legacy of Levi, Mikasa, and Kenny—the warriors of the Ackerman clan.",
+    page: "AckermanBlog.html",
+    tags: ["Attack on Titan", "Physical Srength", "Character Study"]
+  },
+  {
     title: "Doma: Brutality Disguised in Smile",
     description: "Exploring the chilling mind and overwhelming power of Upper Rank Two.",
     page: "DomaBlog.html",
@@ -16,12 +22,6 @@ const animeBlogs = [
     description: "The story of the man who defied the jujutsu world without cursed energy.",
     page: "TojiBlog.html",
     tags: ["Jujutsu Kaisen", "Physical Srength", "Character Study"]
-  },
-  {
-    title: "Three Legends, One Bloodline: The Ackerman Trio",
-    description: "Uncovering the legacy of Levi, Mikasa, and Kenny—the warriors of the Ackerman clan.",
-    page: "AckermanBlog.html",
-    tags: ["Attack on Titan", "Physical Srength", "Character Study"]
   }
 ];
 
